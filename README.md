@@ -1,2 +1,3 @@
 # Python_Galaxy
-All python works and projects
+All Python works and projects
+Author: Pawan Nishad
